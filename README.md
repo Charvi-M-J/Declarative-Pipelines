@@ -25,3 +25,8 @@ DeclarativePipelines/
 Databricks | Delta Live Tables | PySpark
 Structured Streaming | Auto Loader
 Delta Lake | SQL | Medallion Architecture
+
+📈 Outputs
+
+![image alt](https://github.com/Charvi-M-J/Declarative-Pipelines/blob/39dd5aa42cc0ab46aed20416474516517e7a131b/Screenshot%202025-11-03%20194941.png)
+![image_alt(https://github.com/Charvi-M-J/Declarative-Pipelines/blob/39dd5aa42cc0ab46aed20416474516517e7a131b/Screenshot%202025-11-03%20191432.png)
