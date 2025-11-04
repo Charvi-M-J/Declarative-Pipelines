@@ -27,6 +27,7 @@ Structured Streaming | Auto Loader
 Delta Lake | SQL | Medallion Architecture
 
 📈 Outputs
+
 ![image alt](https://github.com/Charvi-M-J/Declarative-Pipelines/blob/1f60d2f5534e5ebc5a0d991f864cac1097466e1b/Screenshot%202025-11-04%20202233.png)
 ![image alt](https://github.com/Charvi-M-J/Declarative-Pipelines/blob/0642c2404ab1eb27a12cc943a5b04aaa61ae39f6/Screenshot%202025-11-04%20165754.png)
 ![image alt](https://github.com/Charvi-M-J/Declarative-Pipelines/blob/39dd5aa42cc0ab46aed20416474516517e7a131b/Screenshot%202025-11-03%20194941.png)
